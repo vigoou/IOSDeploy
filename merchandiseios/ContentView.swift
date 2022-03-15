@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Shared
+//  merchandiseios
 //
 //  Created by Nguyen Le Tuyet Mai on 15/03/2022.
 //

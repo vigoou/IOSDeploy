@@ -1,6 +1,6 @@
 //
-//  merchandiseios_testApp.swift
-//  Shared
+//  merchandiseiosApp.swift
+//  merchandiseios
 //
 //  Created by Nguyen Le Tuyet Mai on 15/03/2022.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct merchandiseios_testApp: App {
+struct merchandiseiosApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
