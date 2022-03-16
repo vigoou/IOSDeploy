@@ -20,5 +20,6 @@ jobs:
           p12-base64: ${{ secrets.P12_BASE64 }}
           mobileprovision-base64: ${{ secrets.MOBILEPROVISION_BASE64 }}
           code-signing-identity: ${{ secrets.CODE_SIGNING_IDENTITY }}
+          ertificate-password: "123456"
           team-id: ${{ secrets.TEAM_ID }}
           workspace-path: Unity-iPhone.xcworkspace # optional
